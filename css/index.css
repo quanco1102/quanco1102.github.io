@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00001C;
-	background-color: #07B935;
+	color: #0000EF;
+	background-color: #95A6EA;
 }
 
 #page
@@ -30,7 +30,7 @@
 	text-align: center;
 	line-height: 36px;
 	font-weight: bold;
-	margin-left: 407px;
+	margin-left: 343px;
 	position: relative;
 }
 
@@ -43,7 +43,7 @@
 	text-align: center;
 	color: #F7931E;
 	font-style: italic;
-	margin-left: 545px;
+	margin-left: 482px;
 	margin-top: 57px;
 	position: relative;
 }
@@ -53,7 +53,7 @@
 	z-index: 7;
 	width: 225px;
 	background-color: transparent;
-	margin-left: 521px;
+	margin-left: 458px;
 	margin-top: 10px;
 	position: relative;
 }
