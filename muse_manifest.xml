@@ -1,7 +1,10 @@
-<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="quanco1102.github.io" resolutions="1x" timestamp="1494385753132">
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="quanco1102.github.io" resolutions="1x" timestamp="1494386696834">
+  <folder name="images">
+    <file name="imgres.jpg" crc="3915212860" seo="true" ref="index"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="3947314005" ref="index"/>
+    <file name="index.css" crc="472036221" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="484278746" ref="index"/>
@@ -9,5 +12,5 @@
     <file name="whatinput.js" crc="84559013" ref="index"/>
     <file name="jquery.watch.js" crc="3866665977" ref="index"/>
   </folder>
-  <file name="index.html" crc="296925637" seo="true" mt="1494385278854" redirect="true"/>
+  <file name="index.html" crc="65117751" seo="true" mt="1494386686609" redirect="true"/>
 </manifest>
